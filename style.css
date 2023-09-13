@@ -1,0 +1,30 @@
+h1{
+    color: #000000;
+
+}
+h2{
+    color:darkblue
+}
+h3{
+    color: blue;
+}
+p{
+    color : #000000 ;
+}
+img{
+    width: 25%;
+    height: auto;
+    opacity: 1;
+}
+body{
+    background-color: lightgrey;
+}
+#container{
+    border: 2px solid blue;
+    padding: 40px;
+}
+.ptext{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: indigo;
+}
